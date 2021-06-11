@@ -1,0 +1,40 @@
+.wrap {
+    width: 1000px;
+    height: 1000px;
+}
+.rot{
+    transform: rotate(180deg);
+}
+.size {
+    height: 100px;
+    width: 100px;
+    box-sizing: border-box;
+}
+.column{
+    float: left;
+}
+.text {
+    text-align: center;
+    padding-top: 25px;
+    font-size: 50px;
+}
+.white{
+    background: white;  
+    border: solid 1px;
+}
+.black {
+    background:rgb(37, 36, 36);
+    border: solid 1px;
+}
+.border{
+    width: 1000px;
+	height: 1000px;
+	border:10px solid #2C110A;
+	border-radius: 15px;
+	background: #BDBDBD;
+}
+img {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
